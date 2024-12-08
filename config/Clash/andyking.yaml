@@ -25,7 +25,7 @@ unified-delay: true
 tcp-concurrent: true
   
 geodata-mode: false
-geodata-loader: standard
+geodata-loader: memconservative
 geo-auto-update: true
 geo-update-interval: 48
 geox-url:
